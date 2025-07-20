@@ -52,6 +52,7 @@ if(cityTimeZone === "current"){
     "A"
   )}</small></div>
   </div>
+  <a href="/"> Home Page</a>
   `;
 }
 updateTime();
